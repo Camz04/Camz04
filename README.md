@@ -16,3 +16,9 @@ Python • SQL • Relational Databases • C#
 **Tools & Version Control**
 
 GitHub • VS Code • Visual Studio 2022
+
+**SQL Practice & Problem Solving** 
+
+Strengthening my SQL skills through hands-on query challenges, focusing on data retrieval, filtering, aggregation, and relational operations.
+
+[View my LeetCode Profile](https://leetcode.com/u/camz04/)
